@@ -1,2 +1,7 @@
 # gamebox-uni-liluneros
-klk
+proyecto de practica para sistemas y computacion
+
+##Byte
+
+ byte atraviesa parades
+

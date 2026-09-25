@@ -5,3 +5,6 @@ proyecto de practica para sistemas y computacion
 
  byte se detiene en la pared
  byte detecta errores ocultos
+
+ Fix bugs corregidos
+ 
